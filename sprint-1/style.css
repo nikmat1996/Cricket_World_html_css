@@ -1,0 +1,101 @@
+
+
+
+          .container1{
+              display:grid;
+              grid-template-columns: 20% 60% 20%;
+              grid-template-rows: auto;
+              background-color: rgb(230, 252, 230);
+          }
+          .stuff2 > img{
+              width:100%;
+              
+          }
+          .stuff2 figcaption{
+              text-align: center;
+              margin-top: 1%;
+          }
+          .stuff1 p{
+              color:rgb(1, 128, 1);
+              text-align: center;
+              font-size: 60;
+              font-style: italic;
+              padding-top: 200px;
+              
+          }
+
+            .stuff3{
+                display:grid;
+                grid-template-columns: auto;
+                grid-template-rows: 20% 20% 20% 20% 20%;
+                
+              
+          }
+          .bn  {
+              margin: 5%;
+              margin-left:10%;
+              margin-right:10%;
+              
+              font-size: 20;
+              
+          }
+          a{
+              color:rgb(1, 128, 1);
+          }
+
+          .container2{
+              margin: 1%;
+              display:grid;
+              grid-template-columns: 70% 3% 27%;
+              grid-template-rows: auto auto;
+              background-color:rgb(230, 252, 230) ;
+          }
+          .container2 h1{
+              color:rgb(1, 128, 1);
+          }
+          .package1 img {
+              float: left;
+              
+          }
+          .package1 p{
+              margin-left: 1%;
+              float:right;
+              font-size: x-large;
+          }
+          .imgcrihis{
+              width:200;
+          }
+          .imgsachin {
+              margin-top: 5%;
+          }
+          .package2 p{
+              font-size:x-large;
+          }
+
+          .container3{
+              display:flex;
+              flex-basis: 1;
+              
+          }
+          .container3 > div{
+              margin:2%;
+             
+          }
+          .container3 h2{
+              text-align: center;
+              color:rgb(1, 65, 6);
+              font-size: xx-large;
+          }
+          .container3 p{
+              margin-top: 3%;
+              font-size: x-large;
+              font-style: initial;
+              font-weight: 400;
+              color: green ;
+          }
+          body > p{
+              font-size: 60px;
+              font-weight: 800;
+              text-align: center;
+              color:rgb(1, 128, 1);
+          }
